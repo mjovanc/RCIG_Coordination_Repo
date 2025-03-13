@@ -575,6 +575,8 @@ by large quantum computers.
   to Picnic library implementating the traits from
   [pqcrypto](https://github.com/rustpq/pqcrypto).
 
+- [qrypto](https://github.com/mjovanc/qrypto) The post-quantum cryptography library in pure Rust.
+
 ## Random Number Generators
 
 [up](#table-of-contents)
